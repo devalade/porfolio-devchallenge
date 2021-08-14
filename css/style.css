@@ -647,11 +647,6 @@ progress::-webkit-progress-value {
     margin: 0 auto;
 }
 
-.container.custom .profile--card--h__image {
-    /* width: 22em; */
-    /* height: inherit; */
-}
-
 .first--section {
     width: 100%;
     display: grid;
@@ -684,17 +679,15 @@ progress::-webkit-progress-value {
     max-width: 100%;
 }
 
-/* .firs */
+/* .first layout integration */
 .left--side {
     grid-area: l;
     width: 100%;
-    /* flex: 1; */
 }
 
 .right--side {
     grid-area: r;
     min-width: 100%;
-    /* flex: 3; */
 }
 
 .experiences-v.custom .experience__desc {
